@@ -1,4 +1,4 @@
-# maxinechiedza.github.io
+# Graduate
 ### Education
 undergraduate
 

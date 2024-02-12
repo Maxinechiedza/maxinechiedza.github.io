@@ -22,11 +22,11 @@ English, Shona, Ndebele, Zulu
 
 
 ## Education
-- Gokomere High School (_2016_) | ZIMSEC General Certificate of Education Ordinary Level
+- Gokomere High School (_2016_)     | ZIMSEC General Certificate of Education Ordinary Level
 - St Anthony's High School (_2018_) | ZIMSEC General Certificate of Education Advanced Level
-- University of La Verne (_2022_) | Certificate Program in Executive Management on Leading and Coaching the Human Organization
-- University of Cape Town (_2022_) | Bachelor of Commerce specialising in Management Studies: Statistics
-- University of Cape Town (_2024_) | Bachelor of Business Science (Honours) in Analytics	 			        		
+- University of La Verne (_2022_)   | Certificate Program in Executive Management on Leading and Coaching the Human Organization
+- University of Cape Town (_2022_)  | Bachelor of Commerce specialising in Management Studies: Statistics
+- University of Cape Town (_2024_)  | Bachelor of Business Science (Honours) in Analytics	 			        		
 
 
 ## Work Experience
